@@ -1,2 +1,4 @@
 #!/bin/bash
-hello.sh
+echo "Hello World"
+chmod -v +x hello.sh
+./hello.sh
